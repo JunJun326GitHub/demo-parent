@@ -11,6 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/../demo-manager/demo-manager-web/demo-manager-web.iml" filepath="$PROJECT_DIR$/../demo-manager/demo-manager-web/demo-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-parent.iml" filepath="$PROJECT_DIR$/demo-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../demo-portal/demo-portal.iml" filepath="$PROJECT_DIR$/../demo-portal/demo-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-portal/demo-portal-interface/demo-portal-interface.iml" filepath="$PROJECT_DIR$/../demo-portal/demo-portal-interface/demo-portal-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-portal/demo-portal-pojo/demo-portal-pojo.iml" filepath="$PROJECT_DIR$/../demo-portal/demo-portal-pojo/demo-portal-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-portal/demo-portal-service/demo-portal-service.iml" filepath="$PROJECT_DIR$/../demo-portal/demo-portal-service/demo-portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-search-web/demo-search-web.iml" filepath="$PROJECT_DIR$/demo-search-web/demo-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-portal/demo.portal-dao/demo.portal-dao.iml" filepath="$PROJECT_DIR$/../demo-portal/demo.portal-dao/demo.portal-dao.iml" />
     </modules>
   </component>
 </project>

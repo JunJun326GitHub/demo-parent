@@ -9,6 +9,12 @@
     <file url="file://$PROJECT_DIR$/../demo-manager/demo-manager-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../demo-manager/demo-manager-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-search-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../demo-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo-portal-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo-portal/demo-portal-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo-portal/demo-portal-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo-portal/demo-portal-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo-portal/demo.portal-dao" charset="UTF-8" />
   </component>
 </project>

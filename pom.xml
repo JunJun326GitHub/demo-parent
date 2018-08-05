@@ -7,11 +7,14 @@
     <groupId>com.jun</groupId>
     <artifactId>demo-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <!--这个项目下有几个项目，这里就会自动显示几个-->
     <modules>
         <module>../demo-common</module>
         <module>../demo-manager</module>
         <module>../demo-portal</module>
+        <module>demo-search-web</module>
     </modules>
+    <!--项目下还有其他项目打包要用pom-->
     <packaging>pom</packaging>
 
 
